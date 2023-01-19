@@ -8,7 +8,6 @@ class CreateJobListings < ActiveRecord::Migration[7.0]
       t.string :deadline
       t.integer :employer_id
       t.integer :employee_id
-      t.string :no-test-framework
 
       t.timestamps
     end
