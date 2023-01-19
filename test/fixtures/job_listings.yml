@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job_title: MyString
+  category_id: 1
+  description: MyString
+  qualification: MyString
+  deadline: MyString
+  employer_id: 1
+  employee_id: 1
+  no-test-framework: MyString
+
+two:
+  job_title: MyString
+  category_id: 1
+  description: MyString
+  qualification: MyString
+  deadline: MyString
+  employer_id: 1
+  employee_id: 1
+  no-test-framework: MyString
